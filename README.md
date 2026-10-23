@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Back-4-Blood-Loadout-Manager` · Updated: 2026-10-07
+`Back-4-Blood-Loadout-Manager` · Updated: 2026-10-24
 
 **Tags:** `back-4-blood` `loadout` `co-op` `card-system` `steam`
